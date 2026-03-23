@@ -26,7 +26,7 @@ The Verilog Testbench (`napoje_beh_tb.v`) validates the following:
 ### Simulation Results
 Below is a screenshot of the ISim simulation waveform, demonstrating the successful selection of a drink, payment sequence, and dispenser trigger.
 
-![Simulation Waveform](doc/ISim.png)
+![Simulation Waveform](doc/ISim-screenshot.png)
 *Figure 1: Simulation trace showing FSM state transitions and output signals.*
 
 ---
