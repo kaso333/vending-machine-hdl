@@ -23,6 +23,12 @@ The Verilog Testbench (`napoje_beh_tb.v`) validates the following:
 3. **Operation Break**: Testing the system's reaction to the `user_break` signal.
 4. **Hardware Triggers**: Monitoring the `podajnik_trig` pulses and dispenser ID.
 
+### Simulation Results
+Below is a screenshot of the ISim simulation waveform, demonstrating the successful selection of a drink, payment sequence, and dispenser trigger.
+
+![Simulation Waveform](doc/ISim.png)
+*Figure 1: Simulation trace showing FSM state transitions and output signals.*
+
 ---
 
 ## 🇵🇱 Wersja Polska
